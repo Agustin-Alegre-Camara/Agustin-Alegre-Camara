@@ -3,7 +3,7 @@ My name is *Tino*, and I'm a *Software Engineering Bootcamp graduate* with a pas
 
 •⁠  ⁠🔭 I’m currently working on building my first-ever *Portfolio Website* using *fastHTML*, where I'll showcase my projects and achievements. 
 
-markdown •⁠  ⁠ 🌱 I’m currently learning and refining my skills in:
+•⁠  ⁠ 🌱 I’m currently learning and refining my skills in:
 
   •⁠  ⁠ *Pandas* for data manipulation 
     
