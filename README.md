@@ -1,17 +1,17 @@
 ## Hi there 👋
-My name is *Tino*, and I'm a *Software Engineering Bootcamp graduate* with a passion for *Python* and *Data Analysis*! 
+My name is Tino, and I'm a Software Engineering Bootcamp graduate with a passion for Python and Data Analysis! 
 
-•⁠  ⁠🔭 I’m currently working on building my first-ever *Portfolio Website* using *fastHTML*, where I'll showcase my projects and achievements. 
+ ⁠🔭 I’m currently working on building my first-ever Portfolio Website using fastHTML, where I'll showcase my projects and achievements. 
 
-•⁠  ⁠ 🌱 I’m currently learning and refining my skills in:
+ ⁠🌱 I’m currently learning and refining my skills in:
 
-  •⁠  ⁠ *Pandas* for data manipulation 
+  •⁠  ⁠ Pandas for data manipulation 
     
-  •⁠  ⁠ *Scikit-learn* for machine learning
+  •⁠  ⁠ Scikit-learn for machine learning
     
-  •⁠  ⁠ *Matplotlib* for data visualisation 
+  •⁠  ⁠ Matplotlib for data visualisation 
     
-  •⁠  ⁠ *Jupyter Notebooks* for interactive data analysis
+  •⁠  ⁠ Jupyter Notebooks for interactive data analysis
 
 Feel free to explore my repos and see what I'm up to! 😊
 <!--
